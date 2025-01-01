@@ -1,4 +1,4 @@
-package FactoryModel;
+package Demo;
 
 public enum WorkerType {
     INPUTBOX1(0,"放入Box1的工人"),

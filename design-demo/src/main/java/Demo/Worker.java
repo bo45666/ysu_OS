@@ -1,4 +1,4 @@
-package FactoryModel;
+package Demo;
 
 public interface Worker {
     void start();
